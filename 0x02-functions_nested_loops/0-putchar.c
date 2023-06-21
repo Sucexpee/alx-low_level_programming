@@ -1,11 +1,10 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
-* main - Entry point
-* Retur n: Always 0
+* main - this program prints putch
+* Retur n: Always 1 (success)
 */
-
-int main(void)
+ 
 {
 _putchar('_');
 _putchar('p');
