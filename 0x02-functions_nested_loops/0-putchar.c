@@ -1,16 +1,20 @@
-#include <main.h>
+#include "main.h"
+
+/**
+ * main- Entry point
+ * Return: Always 0
+ */
 
 int main(void)
 {
- charalp[8]="_putchar";
- int;
-
- for(i=0;,i<=7;i++)
- {
-   putchar(alp[i];
- }
-   putchar('\n');
-
-return: (0);
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return(0); 
 }
-
