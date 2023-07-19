@@ -4,7 +4,7 @@
  * print_name - print the name using pointer to function
  * @name: string to add
  * @f: pointer to function
- * Return: Always nothing 
+ * Return: Always 0
  **/
 	void print_name(char *name, void (*f)(char *))
 	{
